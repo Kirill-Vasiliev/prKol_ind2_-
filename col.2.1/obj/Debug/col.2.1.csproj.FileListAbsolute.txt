@@ -1,0 +1,7 @@
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\bin\Debug\col.2.1.exe.config
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\bin\Debug\col.2.1.exe
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\bin\Debug\col.2.1.pdb
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\obj\Debug\col.2.1.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\obj\Debug\col.2.1.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\obj\Debug\col.2.1.exe
+C:\Users\305-10\Desktop\vasiliev\Васильев ПР-23\c#\col.2.1\obj\Debug\col.2.1.pdb
